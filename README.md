@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SleepyJimmy
+- 👋 Hi, I’m @SleepyJimmy, a silly beginner in the world of coding. 
 - 👀 I’m interested in coding and programming in general and would love to work as a software engineer or game designer in the future.
 - 🌱 I’m currently learning Javascript as I've just completed learning HTML and CSS from freeCodeCamp's curriculum but am going to start learning Python soon.
 - 💞️ I’m looking to collaborate on any project just to learn and gain experience as I find challenges with coding fun.
