@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lijunfang97@gmail.com**
 
-- ⚡ Fun fact This MSc I am currently undertaking is my first course in computing
+- ⚡ Fun fact, This MSc I am currently undertaking is my first course in computing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
