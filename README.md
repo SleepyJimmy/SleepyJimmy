@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**, I am taking **Reinforcement Learning** as my first step.
 
-- 📫 How to reach me **lijunfang97@gmail.com**
+- 📫 How to reach me **jimleejf97@gmail.com**
 
 - ⚡ Fun fact, this MSc I am currently undertaking is my first course in computing
 
